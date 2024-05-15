@@ -2,4 +2,4 @@
 
 
 
-A Coffeeshop Management System on Java
+A Coffeeshop Management System using Java
