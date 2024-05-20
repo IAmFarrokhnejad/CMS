@@ -8,7 +8,7 @@ import java.io.Serializable;
 
 /**
  *
- * @author afr51
+ * @author MortezaFarrokhnejad
  */
 public class Employee implements Serializable{
     private int emp_id;
