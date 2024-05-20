@@ -8,7 +8,7 @@ import java.io.Serializable;
 
 /**
  *
- * @author afr51
+ * @author MortezaFarrokhnejad
  */
 class Product implements Serializable {
     private int product_id;
